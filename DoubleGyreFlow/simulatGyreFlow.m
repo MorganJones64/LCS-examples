@@ -2,7 +2,8 @@
 % Example code of Finite-Time-Lyapunov Exponent analysis for an Unsteady Double-Gyre Flow
 % Derived from ME 564 - Mechanical Engineering Analysis:
 % Lecturer Steven Brunton, University of Washington
-% (http://faculty.washington.edu/sbrunton/me564/)
+% (http://faculty.washington.edu/sbrunton/me564/) 
+% (https://cassyni.com/events/PZ37zqJFMgX6XS26KWKR6V)
 % Author: Steve Brunton, Morgan Jones
 %% Initiate constants for integration and dynamical system
 clear all
